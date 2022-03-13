@@ -35,7 +35,4 @@ int hexit(char c);		// 16进制转换10进制
 void send_error(int cfd, int status, char* title, char* text); //拼接一个html 错误页面 例如文件不存在啊  404 ！
 
 
-
-
-
 #endif
